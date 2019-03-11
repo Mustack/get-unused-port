@@ -1,0 +1,23 @@
+{
+  "name": "get-unused-port",
+  "version": "1.0.0",
+  "description": "Gets an unused TCP port.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mustack/get-unused-port.git"
+  },
+  "keywords": [
+    "TCP",
+    "port"
+  ],
+  "author": "Mustack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mustack/get-unused-port/issues"
+  },
+  "homepage": "https://github.com/Mustack/get-unused-port#readme"
+}
